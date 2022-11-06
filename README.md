@@ -1,6 +1,6 @@
 # Hi I'm Khurshid 👋
 ## Front End Developer from Uzbekistan
-### I work in technology stack: HTML/CSS, JS, JQUERY, Bootstrap
+### I work in technology stack: HTML/CSS, SASS/ LESS,  JavaScript, Tailwind CSS, ReactJS
 ### My Telegram Channel: https://t.me/Genius_Motivatsion
 
 ### Contact with me:
