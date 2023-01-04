@@ -2,7 +2,7 @@
 ## Front End Developer from Uzbekistan
 ### I work in technology stack: HTML/CSS, SASS/ LESS,  JavaScript, Tailwind CSS, ReactJS
 
-### Websites that I have created as a portfolio:
+### 🏆 Websites that I have created as a portfolio:
 
 ### Website Drones: https://khurshid-dev.github.io/Website_drones/
 ### Portfolio Website: https://khurshid-dev.github.io/Portolio_website/
